@@ -22,6 +22,6 @@ variable "sg_name" {
 # variable "vpc_id" {
 #     type = "string"
 # }
-variable "sg_description" {
+# variable "sg_description" {
 
-}
+# }
